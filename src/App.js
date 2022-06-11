@@ -6,10 +6,10 @@ import 'react-toastify/dist/ReactToastify.css';
 function App() {
 
   const notify = ()=>{
-    toast.success('Wow so easy!!')
-    toast.warning('Wow so easy!!')
-    toast.info('Wow so easy!!')
-    toast.danger('Wow so easy!!')
+    toast.success('I am success!!')
+    toast.warning('I am warning!!')
+    toast.info('I am Info!!')
+    toast.danger('I am danger!!')
   } 
 
 
